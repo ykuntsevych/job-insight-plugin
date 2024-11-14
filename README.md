@@ -36,8 +36,8 @@ _v0.0_
 _v0.1_
 - Skills Dictionary, split by categories, highlighted page content / DOM with matches found and suggestions. Clean and categorize skills and categoreis. 
 - Applicable Platforms: 
-https://www.Glassdoor
-https://www.Indeed.com 
+https://www.Glassdoor.com
+https://www.Indeed.com
 https://www.LinkedIn
 https://www.upwork.com
 - Job Description score calculator
