@@ -38,8 +38,10 @@ _v0.1_
 - Applicable Platforms: 
 https://www.Glassdoor.com
 https://www.Indeed.com
-https://www.LinkedIn
 https://www.upwork.com
+https://www.LinkedIn.com
+https://www.upstaff.com
+
 - Job Description score calculator
 - basic ideas checklist how to improve job description
 - Ideas on top resources to look for applicants and publish job offers
