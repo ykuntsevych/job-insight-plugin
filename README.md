@@ -1,5 +1,8 @@
 # job-insight-chrome
 Google Chrome Plugin to fine-tune job description page
+Google Chrome Extension Page: 
+https://chromewebstore.google.com/detail/upstaffer/lgnalkchjkajoibdhjahbonhknbhpcei?authuser=0&hl=en
+
 
 ## Concept
 Build Google Chrome extention with built-in suggestions based on widely-accepted best practices.
