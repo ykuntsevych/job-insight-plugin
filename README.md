@@ -1,7 +1,7 @@
-# job-insight-chrome
+# Job Description
 Google Chrome Plugin to fine-tune job description page
 Google Chrome Extension Page: 
-https://chromewebstore.google.com/detail/upstaffer/lgnalkchjkajoibdhjahbonhknbhpcei?authuser=0&hl=en
+[Job Description](https://chromewebstore.google.com/detail/job-description/bdadpamcegjdlmijpdkjdgnoikfpodck)
 
 
 ## Concept
@@ -38,12 +38,7 @@ _v0.0_
 
 _v0.1_
 - Skills Dictionary, split by categories, highlighted page content / DOM with matches found and suggestions. Clean and categorize skills and categoreis. 
-- Applicable Platforms: 
-https://www.Glassdoor.com
-https://www.Indeed.com
-https://www.upwork.com
-https://www.LinkedIn.com
-https://www.upstaff.com
+- Applicable Platforms: Glassdoor.com, Indeed.com, upwork.com, LinkedIn.com, https://www.upstaff.com
 
 - Job Description score calculator
 - basic ideas checklist how to improve job description
