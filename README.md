@@ -1,7 +1,7 @@
 # Job Description
 Google Chrome Plugin to fine-tune job description page
 Google Chrome Extension Page: 
-[Job Description](https://chromewebstore.google.com/detail/job-description/bdadpamcegjdlmijpdkjdgnoikfpodck)
+[Job Description Page on Google Chrome Store](https://chromewebstore.google.com/detail/job-description/bdadpamcegjdlmijpdkjdgnoikfpodck) and [Chrome Descriptio plugin page on Upstaff.com](https://upstaff.com/job-description-chrome-extension/)
 
 
 ## Concept
